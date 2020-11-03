@@ -1,4 +1,4 @@
-## Watch the Ethics Podcast Trailer!
+### Watch the Ethics Podcast Trailer!
 
 <div style="display: flex; justify-content: center;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/dTdep5M2zNc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
