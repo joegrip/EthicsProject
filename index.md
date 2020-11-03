@@ -1,4 +1,3 @@
-
 ## Watch the Ethics Podcast Trailer!
 
 <div style="display: flex; justify-content: center;">
