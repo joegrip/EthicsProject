@@ -1,4 +1,3 @@
-##
 ## Watch the full Ethics Podcast!
 
 
